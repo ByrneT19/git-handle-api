@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+h1, .core, .repos, .error-return {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 12%;
+}
